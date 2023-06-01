@@ -12,7 +12,7 @@
 ;    +---------+--------+---------+  Enter  |
 ;    | 0   S P A C E    | . BACK  |         |
 ;    +------------------+---------+---------+
-;       p/s: i sucks at ASCII art (┬┬﹏┬┬)
+;       p/s: I sucks at ASCII art (┬┬﹏┬┬)
 
 ;Settings
 cooldown := 300 ;Key change cooldown [>100] "below maybe unusable"
